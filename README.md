@@ -1,2 +1,2 @@
-# next13-ts-concept
+# next13-ts-concepts
 Conceptos basicos de next13
