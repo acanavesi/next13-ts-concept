@@ -6,8 +6,8 @@ const Layout = ({ children }: any) => {
     { name: "Inicio", href: "/" },
     { name: "SSR", href: "/ssr" },
     { name: "SSG", href: "/ssg" },
-    { name: "CSR", href: "/csr" },
     { name: "ISR", href: "/isr" },
+    { name: "CSR", href: "/csr" },
   ];
 
   return (

@@ -18,9 +18,9 @@ const Ssg = ({ data }: any) => {
         </p>
         <p>1 - se ejecuta la funcion getStaticProps que llama al api </p>
         <p>2 - el resultado se pasa al componente (pagina) </p>
-        <p>4 - el server arma el HTML</p>
+        <p>3 - el server arma el HTML</p>
         <p>
-          5 - se guarda para siempre ese HTML y cada vez que un cliente solicita
+          4 - se guarda para siempre ese HTML y cada vez que un cliente solicita
           la pagina, se le envia el HTML
         </p>
         <p>
