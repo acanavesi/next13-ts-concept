@@ -6,12 +6,8 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <div>
-      <Layout>
-        <div>
-          Se explica como funciona el SSR, SSG, CSR e ISR
-        </div>
-      </Layout>
-    </div>
+    <main className="flex ">
+      <Layout><div>404 .. Pagina no encontrada</div></Layout>
+    </main>
   )
 }
